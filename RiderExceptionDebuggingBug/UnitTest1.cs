@@ -18,9 +18,7 @@ namespace RiderExceptionDebuggingBug
             
 
             await Task.Delay(1000);
-            
-            
-            
+
             cancellationTokenSource.Cancel();
 
             var result = await anyTask;
