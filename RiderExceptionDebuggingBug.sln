@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiderExceptionDebuggingBug", "RiderExceptionDebuggingBug\RiderExceptionDebuggingBug.csproj", "{71B60C6A-4250-42D2-A965-9C5B659F5A26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71B60C6A-4250-42D2-A965-9C5B659F5A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B60C6A-4250-42D2-A965-9C5B659F5A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B60C6A-4250-42D2-A965-9C5B659F5A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B60C6A-4250-42D2-A965-9C5B659F5A26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
