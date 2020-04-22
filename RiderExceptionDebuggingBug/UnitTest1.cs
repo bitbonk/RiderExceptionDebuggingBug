@@ -9,7 +9,7 @@ namespace RiderExceptionDebuggingBug
     public class UnitTest1
     {
         [Fact]
-        public async Task StartKernelConfigurationMessage_Kernel_Described()
+        public async Task Test1()
         {
             var cancellationTokenSource = new CancellationTokenSource();
             var cancellationToken = cancellationTokenSource.Token;
